@@ -26,6 +26,9 @@ So essentially how this programs works is pretty simple, we just convert speech 
 
 Shouting words at the sky, ground and walls is good and all but we need some action! So I added two enemies you can fight with your speech. A normal enemy and a tough enemy. The tough enemy is only slighly faster than the normal enemy but also only takes damage from certain words. Luckily, there's only 15% chance you might encounter one during gameplay.
 
+![vlcsnap-2023-06-24-19h24m45s869](https://github.com/rohithateappple/Unity-Koekatamarin/assets/131531154/1770bed1-7e4e-453d-ae2a-5f75a641dd2b)
+
+
  
 
  
