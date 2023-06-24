@@ -6,4 +6,8 @@ This is a real-time speech to text gadget inspired by one of my favorite anime, 
 
 ![koekatamarin doraemon](https://github.com/rohithateappple/Unity-Koekatamarin/assets/131531154/21e6fd0d-4021-45cb-baae-2703642e486b)
 
+## Blueprint
+
+So essentially how this programs works is pretty simple, we just convert speech to text in real-time and then add a dimensional quality to the string. Real-Time transcription is essentially so I setted with Google Cloud Services. And it works pretty well!
+
  
