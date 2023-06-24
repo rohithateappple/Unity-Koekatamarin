@@ -22,4 +22,10 @@ So essentially how this programs works is pretty simple, we just convert speech 
 6. Once the game has shook hands with the server, now its play time! Press 'LMB' to initiate recording and speech client. The first initialization always takes a little time, so be aware of enemies!
 7. Once the first initialization is complete, the consecutive iterations are almost instantaneous. So have fun!
 
+## Enemies
+
+Shouting words at the sky, ground and walls is good and all but we need some action! So I added two enemies you can fight with your speech. A normal enemy and a tough enemy. The tough enemy is only slighly faster than the normal enemy but also only takes damage from certain words. Luckily, there's only 15% chance you might encounter one during gameplay.
+
+ 
+
  
