@@ -17,8 +17,9 @@ So essentially how this programs works is pretty simple, we just convert speech 
 1. Download this repository as a .zip
 2. Unzip and paste your service_key.json in this path (inside folder) --> Google Speech Transcriber\Debug\net6.0
 3. Once thats done, open the game.
-4. First you need to connect to the console server, do this by pressing 'E'.
-5. Once the game has shook hands with the server, now its play time! Press 'LMB' to initiate recording and speech client. The first initialization always takes a little time, so be aware of enemies!
-6. Once the first initialization is complete, the consecutive iterations are almost instantaneous. So have fun!
+4. You might notice a Console has also popped up, DO NOT CLOSE IT! It's our speech server, don't worry the game terminates the console once you quit.
+5. First you need to connect to the console server, do this by pressing 'E'.
+6. Once the game has shook hands with the server, now its play time! Press 'LMB' to initiate recording and speech client. The first initialization always takes a little time, so be aware of enemies!
+7. Once the first initialization is complete, the consecutive iterations are almost instantaneous. So have fun!
 
  
