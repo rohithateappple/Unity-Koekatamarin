@@ -8,7 +8,7 @@ This is a real-time speech to text gadget inspired by one of my favorite anime, 
 
 ## Blueprint
 
-So essentially how this programs works is pretty simple, we just convert speech to text in real-time and then add a dimensional quality to the string. Real-Time transcription is essentially so I setted with Google Cloud Services. And it works pretty well! Of course Google API isn't completely free so you'll have to run the program with your own Google Service API. But once thats set, everything is good to go.
+So essentially how this programs works is pretty simple, we just convert speech to text in real-time and then add a dimensional quality to that string. Real-Time transcription is essential so I setted with Google Cloud Services. And it works pretty well! Of course Google API isn't completely free so you'll have to run the program with your own Google Service API. But once thats set, everything is good to go.
 
 ![vlcsnap-2023-06-24-18h52m01s205](https://github.com/rohithateappple/Unity-Koekatamarin/assets/131531154/c1e31a34-abbf-40a2-8307-14f717bfaddc)
 
